@@ -1,5 +1,5 @@
 #Easy Facebook Android sdk
-This library is not anymore supported from 2014.
+This library is not anymore supported from 2014. The web site http://www.easyfacebookandroidsdk.com/ will be dismissed soon.
 
 The only information required to use the Easy facebook Android SDK are: 
 
